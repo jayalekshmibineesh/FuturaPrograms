@@ -1,5 +1,5 @@
 <?php
-$number = 12345; // Replace with your desired number
+$number = 12345; 
 
 $sum = 0;
 while ($number > 0) {
